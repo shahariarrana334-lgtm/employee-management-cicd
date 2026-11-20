@@ -1,0 +1,13 @@
+{
+  "name": "cicd-employee-app",
+  "version": "1.0.0",
+  "description": "employee Management web application using CI/CD",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
